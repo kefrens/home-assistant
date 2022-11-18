@@ -117,7 +117,7 @@ input_number:
     icon: mdi:clock
     mode: box
 
-# Durée de filtration max en hiver
+# Coefficient Filtration Abaque
   filtration_coeff_abaque:
     name: Coeff filtration Piscine Abaque
     min: 60
